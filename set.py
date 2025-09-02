@@ -1,5 +1,7 @@
 collection = set() # Create an empty set
 
+print(type(collection)) # Output: <class 'set'>
+
 # Add element to the set
 collection.add(1)
 collection.add(2)
@@ -22,3 +24,4 @@ for item in collection:
 # Clear the set
 collection.clear()
 print(collection)
+
