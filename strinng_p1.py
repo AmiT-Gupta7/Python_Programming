@@ -13,3 +13,4 @@ print(len(name))
 #WAP to count the occurance of $ in string.
 str1 = "the string$$ $contain $ symbol"
 print(str1.count("$"))
+
