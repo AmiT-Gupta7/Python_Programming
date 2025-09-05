@@ -49,3 +49,21 @@ while i < len(my_lst):
     i += 1
 else:
     print("number not found")
+
+# print the sum of first n natural numbers
+num = int(input("Enter a number :"))
+i = 1
+sum = 0
+while i <= num:
+    sum += i
+    i += 1
+print(sum)
+
+# print factorial of a given number
+num = int(input("Enter a number: "))
+i = 1
+fact = 1
+while i <= num:
+    fact *= i
+    i += 1
+print(fact)
