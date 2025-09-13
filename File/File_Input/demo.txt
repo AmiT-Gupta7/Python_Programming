@@ -1,0 +1,4 @@
+hi my name is amit gupta 
+i am learning python
+today i am learn about file
+file input/output 
